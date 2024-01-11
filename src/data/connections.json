@@ -1,0 +1,536 @@
+[
+  {
+    "nodeA": "staffroom_sink",
+    "nodeB": "s1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "staffroom_shower",
+    "nodeB": "s2",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "washroom_sink",
+    "nodeB": "w1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "shower_a",
+    "nodeB": "a1",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "bathtub_a",
+    "nodeB": "a2",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "bath_sink_a",
+    "nodeB": "a3",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "loo_sink_a",
+    "nodeB": "a4",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "kitchen_sink_a",
+    "nodeB": "a5",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "dishwasher_a",
+    "nodeB": "a6",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "washing_machine_a",
+    "nodeB": "a7",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "shower_b",
+    "nodeB": "b1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "bathtub_b",
+    "nodeB": "b2",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "bath_sink_b",
+    "nodeB": "b3",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "loo_sink_b",
+    "nodeB": "b4",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "kitchen_sink_b",
+    "nodeB": "b5",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "dishwasher_b",
+    "nodeB": "b6",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "washing_machine_b",
+    "nodeB": "b7",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "shower_c",
+    "nodeB": "c1",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "bathtub_c",
+    "nodeB": "c2",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "bath_sink_c",
+    "nodeB": "c3",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "loo_sink_c",
+    "nodeB": "c4",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "kitchen_sink_c",
+    "nodeB": "c5",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "dishwasher_c",
+    "nodeB": "c6",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "washing_machine_c",
+    "nodeB": "c7",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "boiler",
+    "nodeB": "n1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "n2",
+    "nodeB": "n5",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "n3",
+    "nodeB": "n6",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "n4",
+    "nodeB": "n7",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "n8",
+    "nodeB": "n11",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "n9",
+    "nodeB": "n12",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "n10",
+    "nodeB": "n13",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "n14",
+    "nodeB": "n15",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "d2",
+    "nodeB": "d1",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d3",
+    "nodeB": "d2",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d4",
+    "nodeB": "d3",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d5",
+    "nodeB": "d4",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d7",
+    "nodeB": "d6",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d8",
+    "nodeB": "d7",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d9",
+    "nodeB": "d8",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d10",
+    "nodeB": "d9",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d12",
+    "nodeB": "d11",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d13",
+    "nodeB": "d12",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d14",
+    "nodeB": "d13",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "d15",
+    "nodeB": "d14",
+    "diameterInCm": 3,
+    "lossOfEnergy": 1
+  },
+  {
+    "nodeA": "n1",
+    "nodeB": "d1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "n1",
+    "nodeB": "d6",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "n1",
+    "nodeB": "d11",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "n1",
+    "nodeB": "n7",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "a7",
+    "nodeB": "b7",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "b7",
+    "nodeB": "c7",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "c7",
+    "nodeB": "d11",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "d11",
+    "nodeB": "w1",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "w1",
+    "nodeB": "c7",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "d2",
+    "nodeB": "s2",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "d2",
+    "nodeB": "s1",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "s1",
+    "nodeB": "d7",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "s2",
+    "nodeB": "d12",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "d7",
+    "nodeB": "d12",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "a6",
+    "nodeB": "d3",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "a6",
+    "nodeB": "a5",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "a5",
+    "nodeB": "a1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "a1",
+    "nodeB": "d3",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "d3",
+    "nodeB": "a4",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "a4",
+    "nodeB": "d13",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "d8",
+    "nodeB": "a2",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "a2",
+    "nodeB": "a3",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "a1",
+    "nodeB": "a3",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "a3",
+    "nodeB": "a4",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "d4",
+    "nodeB": "b5",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "b5",
+    "nodeB": "b6",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "b5",
+    "nodeB": "b1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "b1",
+    "nodeB": "b4",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "b4",
+    "nodeB": "d4",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "b4",
+    "nodeB": "b3",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "b3",
+    "nodeB": "b1",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "b3",
+    "nodeB": "b2",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "b2",
+    "nodeB": "d9",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "d9",
+    "nodeB": "b3",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "b3",
+    "nodeB": "d14",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "d5",
+    "nodeB": "c1",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "c1",
+    "nodeB": "c5",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "c5",
+    "nodeB": "c6",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "c6",
+    "nodeB": "c2",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "c2",
+    "nodeB": "c3",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "c3",
+    "nodeB": "d10",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "c3",
+    "nodeB": "d15",
+    "diameterInCm": 2,
+    "lossOfEnergy": 2
+  },
+  {
+    "nodeA": "c1",
+    "nodeB": "c4",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "d5",
+    "nodeB": "c4",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  },
+  {
+    "nodeA": "c4",
+    "nodeB": "c3",
+    "diameterInCm": 1,
+    "lossOfEnergy": 3
+  }
+]

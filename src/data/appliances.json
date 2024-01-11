@@ -1,0 +1,194 @@
+[
+  {
+    "household": "shop",
+    "name": "staffroom_sink",
+    "x": 6,
+    "y": 7.5,
+    "z": 1.2,
+    "energyConsumptionInKJPerHour": 80
+  },
+  {
+    "household": "shop",
+    "name": "staffroom_shower",
+    "x": 6,
+    "y": 10.5,
+    "z": 1.5,
+    "energyConsumptionInKJPerHour": 8
+  },
+  {
+    "household": "shared",
+    "name": "washroom_sink",
+    "x": 19,
+    "y": 4,
+    "z": -1.8,
+    "energyConsumptionInKJPerHour": 20
+  },
+  {
+    "household": "Ahrens",
+    "name": "shower",
+    "x": 9,
+    "y": 7,
+    "z": 4.2,
+    "energyConsumptionInKJPerHour": 600
+  },
+  {
+    "household": "Ahrens",
+    "name": "bathtub",
+    "x": 9,
+    "y": 1.5,
+    "z": 3.7,
+    "energyConsumptionInKJPerHour": 348
+  },
+  {
+    "household": "Ahrens",
+    "name": "bath_sink",
+    "x": 11,
+    "y": 3.5,
+    "z": 4.2,
+    "energyConsumptionInKJPerHour": 360
+  },
+  {
+    "household": "Ahrens",
+    "name": "loo_sink",
+    "x": 10,
+    "y": 10.5,
+    "z": 4.2,
+    "energyConsumptionInKJPerHour": 92
+  },
+  {
+    "household": "Ahrens",
+    "name": "kitchen_sink",
+    "x": 2.5,
+    "y": 7,
+    "z": 4.2,
+    "energyConsumptionInKJPerHour": 292
+  },
+  {
+    "household": "Ahrens",
+    "name": "dishwasher",
+    "x": 1,
+    "y": 7,
+    "z": 3.5,
+    "energyConsumptionInKJPerHour": 76
+  },
+  {
+    "household": "Ahrens",
+    "name": "washing_machine",
+    "x": 15.5,
+    "y": 1,
+    "z": -2.7,
+    "energyConsumptionInKJPerHour": 28
+  },
+  {
+    "household": "Becker",
+    "name": "shower",
+    "x": 9,
+    "y": 7,
+    "z": 7.2,
+    "energyConsumptionInKJPerHour": 760
+  },
+  {
+    "household": "Becker",
+    "name": "bathtub",
+    "x": 9,
+    "y": 1.5,
+    "z": 6.7,
+    "energyConsumptionInKJPerHour": 260
+  },
+  {
+    "household": "Becker",
+    "name": "bath_sink",
+    "x": 11,
+    "y": 3.5,
+    "z": 7.2,
+    "energyConsumptionInKJPerHour": 440
+  },
+  {
+    "household": "Becker",
+    "name": "loo_sink",
+    "x": 10,
+    "y": 10.5,
+    "z": 7.2,
+    "energyConsumptionInKJPerHour": 312
+  },
+  {
+    "household": "Becker",
+    "name": "kitchen_sink",
+    "x": 2.5,
+    "y": 7,
+    "z": 7.2,
+    "energyConsumptionInKJPerHour": 240
+  },
+  {
+    "household": "Becker",
+    "name": "dishwasher",
+    "x": 1,
+    "y": 7,
+    "z": 6.5,
+    "energyConsumptionInKJPerHour": 104
+  },
+  {
+    "household": "Becker",
+    "name": "washing_machine",
+    "x": 17,
+    "y": 1,
+    "z": -2.7,
+    "energyConsumptionInKJPerHour": 136
+  },
+  {
+    "household": "Chen",
+    "name": "shower",
+    "x": 9,
+    "y": 7,
+    "z": 10.2,
+    "energyConsumptionInKJPerHour": 840
+  },
+  {
+    "household": "Chen",
+    "name": "bathtub",
+    "x": 9,
+    "y": 1.5,
+    "z": 9.7,
+    "energyConsumptionInKJPerHour": 140
+  },
+  {
+    "household": "Chen",
+    "name": "bath_sink",
+    "x": 11,
+    "y": 3.5,
+    "z": 10.2,
+    "energyConsumptionInKJPerHour": 584
+  },
+  {
+    "household": "Chen",
+    "name": "loo_sink",
+    "x": 10,
+    "y": 10.5,
+    "z": 10.2,
+    "energyConsumptionInKJPerHour": 184
+  },
+  {
+    "household": "Chen",
+    "name": "kitchen_sink",
+    "x": 2.5,
+    "y": 7,
+    "z": 10.2,
+    "energyConsumptionInKJPerHour": 328
+  },
+  {
+    "household": "Chen",
+    "name": "dishwasher",
+    "x": 1,
+    "y": 7,
+    "z": 9.5,
+    "energyConsumptionInKJPerHour": 52
+  },
+  {
+    "household": "Chen",
+    "name": "washing_machine",
+    "x": 18.5,
+    "y": 1,
+    "z": -2.7,
+    "energyConsumptionInKJPerHour": 232
+  }
+]
