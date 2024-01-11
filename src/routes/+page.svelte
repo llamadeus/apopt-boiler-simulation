@@ -115,12 +115,12 @@
       const consumptionForCentralBoiler = 160 * (consumptionInLitresPerHour + lossInLitresPerHour);
       const consumptionForLocalBoiler = 640 * consumptionInLitresPerHour;
 
-      console.log(
-        nodeId,
-        consumptionForCentralBoiler,
-        consumptionForLocalBoiler,
-        consumptionForCentralBoiler < consumptionForLocalBoiler ? 'CENTRAL BOILER' : 'LOCAL BOILER',
-      );
+      console.log(JSON.stringify({
+        appliance: nodeId,
+        'consumption (central boiler)': consumptionForCentralBoiler,
+        'consumption (local boiler)': consumptionForLocalBoiler,
+        decision: consumptionForCentralBoiler < consumptionForLocalBoiler ? 'CENTRAL BOILER' : 'LOCAL BOILER',
+      }, undefined, 2));
 
       for (const connection of connections) {
         usedPipes.add(connectionKey(connection));
@@ -292,7 +292,7 @@
         }
 
         console.log(JSON.stringify({
-          pipe: info.node.pipeId,
+          appliance: info.node.pipeId,
           applianceConsumption: appliance.energyConsumptionInKJPerHour,
           loss: loss,
           central: consumptionForCentralBoiler,
